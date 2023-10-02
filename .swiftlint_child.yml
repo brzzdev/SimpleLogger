@@ -1,0 +1,7 @@
+deployment_target:
+  iOS_deployment_target: 17.0
+excluded:
+  - Carthage
+  - Pods
+  - .build
+  - .git
